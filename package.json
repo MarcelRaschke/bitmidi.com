@@ -72,7 +72,7 @@
     "color-scheme-change": "^1.0.1",
     "common-tags": "^1.8.0",
     "cors": "^2.8.5",
-    "dayjs": "^1.8.35",
+    "dayjs": "^1.10.4",
     "debug": "^4.1.1",
     "drag-drop": "^6.0.2",
     "ejs": "^3.1.5",
